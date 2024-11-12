@@ -71,7 +71,7 @@ author:
 
 footer:
   links:
-     - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/tiffanyjwoods/"
     - label: "GitHub"
