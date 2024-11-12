@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Tiffany Woods"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "assets/images/{874CC01E-8343-4CBA-BFBE-4F0A7BC0ED42}.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
